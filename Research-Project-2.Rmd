@@ -1,6 +1,5 @@
 ---
 title: "Research Project 2"
-author: "Pu Jian"
 date: "2023-04-09"
 output: html_document
 ---
